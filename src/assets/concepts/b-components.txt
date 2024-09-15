@@ -1,0 +1,13 @@
+ANATOMIA DE UM COMPONENTE
+    - Arquivo typescript(.ts) com a classe do componente onde estarão as regras de funcionamento e comportamento do componente.
+    - Arquivo Hyper Text Markup Language(.html) que armazenará o template daquilo que será renderizado no Document Object Model (DOM).
+    - Arquivo Cascading Style Sheet(.css) que ficará com as regras de estilização do componente.
+
+O DECORADOR >> @Component <<
+    Para fornecer informações especificas ao componente utilizamos o decorador @Component e seus atributos:
+    * 'standalone' é a propriedade que define que o componente é um componente autônomo.
+    * 'selector' é a propriedade que define o nome pelo qual o componente é conhecido dentro da aplicação.
+    * 'templateUrl' é a propriedade que define o arquivo onde será escrito a estrutura HTML do componente.
+    * 'styleUrl' é a propriedade que define os estilos do componente.
+
+

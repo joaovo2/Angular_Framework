@@ -1,0 +1,23 @@
+* Angular é um framework para desenvolvimento Web
+
+* O framework não possui um dono, pois é uma tecnologia de código aberto liderada pela equipe Angular do Google.
+
+* É uma tecnologia que organiza o projeto em componentes individuais. Isto facilita a atualização e a inserção de novos serviços.
+
+* Além do tradicional método de renderização do conteúdo, o CSR (Client Side Rendering) o angular conta com outras duas formas.
+o SSR (Server Side Rendering) e o SSG (Static Site Generation)
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
